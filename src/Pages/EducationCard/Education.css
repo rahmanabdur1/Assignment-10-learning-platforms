@@ -1,0 +1,11 @@
+.education{
+    margin-top: 50px; 
+}
+.course-info{
+    text-align: center;
+}
+.checkout{
+    text-decoration: none;
+    cursor: pointer;
+    color: blueviolet;
+}

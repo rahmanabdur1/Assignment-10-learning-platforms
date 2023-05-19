@@ -1,0 +1,10 @@
+.footer{
+    margin-top: 60px;
+    background: black;
+    padding-left: 230px;
+    padding-top: 40px;
+    color:olivedrab;
+    cursor: pointer;
+    height: 300px;
+    min-height: 100vh;
+}

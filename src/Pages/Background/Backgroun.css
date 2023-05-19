@@ -1,0 +1,22 @@
+.color{
+    height: 400px;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    border-radius: 15px;
+ 
+}
+.cse{
+    font-family: 'Calligraffitti', cursive;
+        font-weight: 700;
+        font-size: 13rem;
+        position: absolute;
+        text-shadow: -15px 5px 20px #ced0d3;
+        top:30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        letter-spacing: 0.02em;
+        text-align: center;
+         color: #F9f1cc;
+         
+
+   
+}
