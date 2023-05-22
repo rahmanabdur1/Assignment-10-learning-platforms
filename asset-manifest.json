@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Assignment-10-learning-platforms/static/css/main.c00ed46d.css",
+    "main.js": "/Assignment-10-learning-platforms/static/js/main.6355208b.js",
+    "static/js/498.0572fc5a.chunk.js": "/Assignment-10-learning-platforms/static/js/498.0572fc5a.chunk.js",
+    "static/js/703.ce482f80.chunk.js": "/Assignment-10-learning-platforms/static/js/703.ce482f80.chunk.js",
+    "static/js/513.71ebc555.chunk.js": "/Assignment-10-learning-platforms/static/js/513.71ebc555.chunk.js",
+    "static/js/787.b973a842.chunk.js": "/Assignment-10-learning-platforms/static/js/787.b973a842.chunk.js",
+    "index.html": "/Assignment-10-learning-platforms/index.html",
+    "main.c00ed46d.css.map": "/Assignment-10-learning-platforms/static/css/main.c00ed46d.css.map",
+    "main.6355208b.js.map": "/Assignment-10-learning-platforms/static/js/main.6355208b.js.map",
+    "498.0572fc5a.chunk.js.map": "/Assignment-10-learning-platforms/static/js/498.0572fc5a.chunk.js.map",
+    "703.ce482f80.chunk.js.map": "/Assignment-10-learning-platforms/static/js/703.ce482f80.chunk.js.map",
+    "513.71ebc555.chunk.js.map": "/Assignment-10-learning-platforms/static/js/513.71ebc555.chunk.js.map",
+    "787.b973a842.chunk.js.map": "/Assignment-10-learning-platforms/static/js/787.b973a842.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c00ed46d.css",
+    "static/js/main.6355208b.js"
+  ]
+}
