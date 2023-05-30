@@ -1,17 +1,17 @@
 import { createBrowserRouter } from "react-router-dom";
-import Main from "../../../layout/Main";
-import Home from "../../Home/Home";
-import Category from "../../Category/Category/Category";
-import Fag from "../../Faq/Fag";
-import Checkout from "../../Checkout/Checkout";
-import About from "../../About/About";
-import Login from "../../Login/Login";
-import Register from "../../Register/Register";
 
-import TermConditions from "../../others/TermConditions/TermConditions";
-import Profile from "../../others/Profile/Profile";
-import Course from "../../Course/Course";
 import PrivateRoutee from "../PrivateRoutee/PrivateRoutee";
+import Main from "../../layout/Main";
+import Fag from "../../Pages/Faq/Fag";
+import Home from "../../Pages/Home/Home";
+import Category from "../../Pages/Category/Category/Category";
+import About from "../../Pages/About/About";
+import Login from "../../Pages/Login/Login";
+import Register from "../../Pages/Register/Register";
+import TermConditions from "../../Pages/others/TermConditions/TermConditions";
+import Course from "../../Pages/Course/Course";
+import Profile from "../../Pages/others/Profile/Profile";
+import Checkout from "../../Pages/Checkout/Checkout";
 
 
 
@@ -23,7 +23,7 @@ export const routes = createBrowserRouter([
             {
                 path: '/',
                 element: <Home></Home>,
-                loader: ({ params }) => fetch(`http://localhost:5000/educations`)
+                loader: fetch('http://localhost:5000/educations')
             },
             {
                 path: '/category/:id',
