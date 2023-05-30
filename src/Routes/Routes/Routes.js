@@ -7,10 +7,11 @@ import Checkout from "../../Checkout/Checkout";
 import About from "../../About/About";
 import Login from "../../Login/Login";
 import Register from "../../Register/Register";
-import PrivateRoutee from "../PrivateRoutee/PrivateRoutee";
+
 import TermConditions from "../../others/TermConditions/TermConditions";
 import Profile from "../../others/Profile/Profile";
 import Course from "../../Course/Course";
+import PrivateRoutee from "../PrivateRoutee/PrivateRoutee";
 
 
 

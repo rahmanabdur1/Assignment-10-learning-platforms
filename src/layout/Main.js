@@ -6,8 +6,6 @@ import Header from '../Pages/Shared/Header/Header';
 import Footer from '../Pages/Footer/Footer';
 
 const Main = () => {
-
-
     return (
         <div>
             <Header />

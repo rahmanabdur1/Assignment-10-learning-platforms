@@ -1,11 +1,12 @@
 
 import './App.css';
 import { RouterProvider } from 'react-router-dom';
-import { routes } from './Pages/Routes/Routes/Routes';
+
 
 import { useContext } from 'react';
 import { DarkModeContext } from './Contexts/AuthProvider/AuthProvider';
 import { Toaster } from 'react-hot-toast';
+import { routes } from './Routes/Routes/Routes';
 
 function App() {
   const { darkMode } = useContext(DarkModeContext)
